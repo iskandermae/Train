@@ -18,5 +18,13 @@
     <ClCompile Include="CodingChallenges.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MissingInArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MissingInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
